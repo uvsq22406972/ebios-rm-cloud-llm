@@ -21,7 +21,7 @@ Cette plateforme héberge quelques fonctionnalités, telles que la gestion de co
 
 L'architecture peut être consulté ci-dessous.
 
-![Architecture](Architecture_CloudLLM_EBIOSRM.pdf)
+![Architecture](Architecture_CloudLLM_EBIOSRM.png)
 
 ---
 
